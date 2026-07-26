@@ -1,5 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dev48v/dev48v/main/card.svg" alt="Devanshu Biswas — profile.sh --live" width="900" />
+<img src="https://raw.githubusercontent.com/dev48v/dev48v/main/card.svg?v=2" alt="Devanshu Biswas — profile.sh --live" width="900" />
 
 </div>
